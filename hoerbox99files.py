@@ -9,8 +9,8 @@ if os.path.isfile("/home/user/music/11111111.ogg"):
    print "file existing"
 else:
    print "file not exiting"
-
-
+ --->apt-get install python-pip
+ --->pip install RPi.GPIO
 ------------------------------------------
 
 
