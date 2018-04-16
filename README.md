@@ -1,2 +1,2 @@
 # hoerbox
-a Little Box with a Raspberry Pi, some Buttons and Headpones
+a little box with a RaspberryPi, some buttons and headpones
