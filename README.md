@@ -7,4 +7,4 @@ just setup in a view moments:
 - fill with audiofiles
 - add an hdmi dispplay or headphones
 
----> EASILY CHANGING SOUNDFILES BY NAMING WITH 1 untill 999
+---> EASILY CHANG SOUNDFILES BY NAMING WITH 1 untill 999
