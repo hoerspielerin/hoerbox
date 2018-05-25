@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
 #
-#  2ndTRYPLAYBUTTON.py
+#  by hoerspielerIN.py
 #   
 #  
 def main():
